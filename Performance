@@ -1,0 +1,16 @@
+Latency:
+  Memory latency
+  Network latency
+  Disk and I/O latency
+  Chattiness/handshakes
+Bandwidth:
+  Excessive payloads
+  Unoptimized data
+  Compression
+Computation:
+  Working on too much data
+  Calculating unnecessary results
+  Brute forcing algorithms
+Responsiveness:
+  Synchronous operations that could be done offline
+  Caching and coping with stale data
